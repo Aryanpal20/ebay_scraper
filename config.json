@@ -1,0 +1,8 @@
+{
+    "CHUNK_SIZE": 300,
+    "SLEEP_TIME": 1,
+    "RETRY_TIMES": 3,
+    "OUTPUT_FORMAT": "json",
+    "PROXY": true,
+    "PROXY_FILE": "Proxy List.txt"
+}
